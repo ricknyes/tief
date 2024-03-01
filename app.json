@@ -11,7 +11,7 @@
     "env": {
         "api_id": {
             "description": "ايبي ايدي",
-            "value": "6765731248",
+            "value": "25281175",
             "required": true
         },
         "api_hash": {
@@ -21,7 +21,7 @@
         },
         "OWNER": {
             "description": "ايـدي الـمـطور",
-            "value": "6814004032",
+            "value": "6765731248",
             "required": true
         },
         "bot_token": {
